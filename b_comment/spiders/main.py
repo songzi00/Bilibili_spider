@@ -1,0 +1,1 @@
+from scrapy import cmdlinecmdline.execute("scrapy crawl bilibili".split())  #此为启动

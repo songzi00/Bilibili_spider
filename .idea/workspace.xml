@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02067496-ca8b-4665-9f97-5255a51320c4" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFE9CN1OnDkcptVZGUGB4eRfy2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/b_comment/spiders" />
+      <recent name="$PROJECT_DIR$/b_comment/chart" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="charts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="b_comment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b_comment/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b_comment/spiders/charts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.charts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02067496-ca8b-4665-9f97-5255a51320c4" name="默认更改列表" comment="" />
+      <created>1584426287440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584426287440</updated>
+      <workItem from="1584426294148" duration="175000" />
+      <workItem from="1584435287174" duration="100000" />
+      <workItem from="1587363225043" duration="124000" />
+      <workItem from="1587365496618" duration="8321000" />
+      <workItem from="1587381773837" duration="2262000" />
+      <workItem from="1587466711194" duration="158000" />
+      <workItem from="1589373023219" duration="1677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587377999147">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="557" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.798@0.23.1440.798" timestamp="1587377999147" />
+    <state x="458" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587375744207">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="458" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.798@0.23.1440.798" timestamp="1587375744207" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1587448506897">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.23.1440.788@0.23.1440.788" timestamp="1587448506897" />
+    <state width="1398" height="278" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1587377284521" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1587381734114" />
+    <state width="1398" height="278" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1587376978394" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1587381982576" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1587382219634" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1587448506893">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.23.1440.788@0.23.1440.788" timestamp="1587448506893" />
+    <state width="1398" height="278" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1587377284519" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1587381734112" />
+    <state width="1398" height="278" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1587376978393" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1587381982574" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1587382219632" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1587448506891">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.23.1440.788@0.23.1440.788" timestamp="1587448506891" />
+    <state width="1398" height="278" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1587377284518" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1587381734112" />
+    <state width="1398" height="278" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1587376978393" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1587381982573" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1587382219630" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1587448506896">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1587448506896" />
+    <state width="1398" height="278" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1587377284520" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1587381734113" />
+    <state width="1398" height="278" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1587376978394" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1587381982575" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1587382219633" />
+    <state x="229" y="59" key="SettingsEditor" timestamp="1587375218432">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="229" y="59" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1587375218432" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/b_comment$charts.coverage" NAME="charts Coverage Results" MODIFIED="1587382219618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/b_comment/spiders" />
+    <SUITE FILE_PATH="coverage/b_comment$chart.coverage" NAME="charts Coverage Results" MODIFIED="1587381707830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/b_comment/spiders" />
+  </component>
+</project>
